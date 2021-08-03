@@ -1,0 +1,8 @@
+NB_COUCHE_CACHEE       :1
+NB_VARIABLE_ENTREE     :60
+NB_UNITE_COUCHE_CACHEE :500
+NB_UNITE_COUCHE_SORTIE :10
+NB_EPOC		           :10
+F_ACTIVATION           :0
+ETA		               :0.1
+LEARN				   :1

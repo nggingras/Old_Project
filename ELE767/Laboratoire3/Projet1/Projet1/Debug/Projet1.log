@@ -1,0 +1,56 @@
+﻿  classe.cpp
+  main.cpp
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(25,39): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(25,24): warning C4244: 'initialisation' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(26,43): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(26,28): warning C4244: 'initialisation' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(27,55): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(27,30): warning C4244: 'initialisation' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(28,13): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(30,32): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(30,17): warning C4244: 'initialisation' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(51,1): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(55,40): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(55,25): warning C4244: 'initialisation' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(56,44): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(56,29): warning C4244: 'initialisation' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(57,56): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(57,31): warning C4244: 'initialisation' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(58,14): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(61,33): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(61,18): warning C4244: 'initialisation' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(231,40): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(253,28): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(281,28): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(311,40): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(318,54): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(327,86): warning C4244: '=' : conversion de '_Ty' en 'int', perte possible de données
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(371,40): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(378,53): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(387,85): warning C4244: '=' : conversion de '_Ty' en 'int', perte possible de données
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(426,28): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(451,28): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(475,28): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(500,28): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(525,28): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(555,31): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(676,24): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(790,24): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(905,24): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(998,43): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(1001,52): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(1003,47): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(1039,44): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(1042,53): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Projet1\main.cpp(1044,48): warning C4018: '<' : incompatibilité signed/unsigned
+  weight.cpp
+  Génération de code en cours...
+  Projet1.vcxproj -> C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire3\Projet1\Debug\Projet1.exe

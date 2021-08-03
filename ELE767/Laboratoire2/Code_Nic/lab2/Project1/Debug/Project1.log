@@ -1,0 +1,62 @@
+﻿  main.cpp
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(40,1): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(131,23): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(238,22): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(342,23): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(710,43): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(712,40): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(744,43): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(746,40): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(824,193): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(843,142): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(854,142): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(877,43): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(880,40): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(888,44): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(899,54): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(942,34): warning C4244: '=' : conversion de 'double' en '_Ty', perte possible de données
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(944,42): warning C4244: '=' : conversion de '_Ty' en 'int', perte possible de données
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(952,76): warning C4244: '=' : conversion de '_Ty' en '_Ty', perte possible de données
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(954,45): warning C4244: '=' : conversion de '_Ty' en 'int', perte possible de données
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(962,78): warning C4244: '=' : conversion de '_Ty' en '_Ty', perte possible de données
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(964,47): warning C4244: '=' : conversion de '_Ty' en 'int', perte possible de données
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(1128,129): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(1140,129): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(1150,128): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(1189,43): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(1195,40): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(1202,44): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Project1\main.cpp(1211,54): warning C4018: '<' : incompatibilité signed/unsigned
+  Project1.vcxproj -> C:\Users\Nicolas\Documents\GitHub\ELE767\Laboratoire2\Code_Nic\lab2\Debug\Project1.exe
